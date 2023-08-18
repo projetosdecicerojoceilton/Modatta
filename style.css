@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+}
+
+#topo {
+  padding: 5px 20px;
+}
+
+#topo img {
+  width: 100px;
+}
+
+#header {
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-download {
+  margin: 20px 0;
+  background-color: #c30;
+  font-size: 20px;
+  color: #fff;
+  padding: 5px 10px;
+}
